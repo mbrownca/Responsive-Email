@@ -1,2 +1,2 @@
 # Responsive-Email
-Hero with 2 Columns
+Hero with 4 Columns
